@@ -4,7 +4,7 @@
 I have successfully completed the **Machine Learning Specialization** course and earned my certificate! This repository showcases one of the key projects from the course.
 
 <!-- Add your certificate image here -->
-![Certificate](ML course 1.png)
+![Machine Learning Certificate](ML%20course%201.png)
 
 ## 📊 Project Overview: Logistic Regression
 
