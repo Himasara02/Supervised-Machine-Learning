@@ -1,8 +1,9 @@
 Machine Learning Specialization - Logistic Regression Implementation
+
 📜 Certificate Achievement
 I have successfully completed the Machine Learning Specialization course and earned my certificate! This repository showcases one of the key projects from the course.
-<ML course 1.png>
-Show Image
+<ML course 1.pdf>
+ 
 📊 Project Overview: Logistic Regression
 This project demonstrates the implementation of Logistic Regression from scratch, covering both basic and regularized versions. The implementation includes two practical applications:
 🎯 Applications
